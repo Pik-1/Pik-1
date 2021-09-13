@@ -2,7 +2,7 @@
 - 👀 I’m interested in webdevelopment 
 - 🌱 I’m currently learning vue.js
 - 💞️ I’m looking to collaborate on nice projects
-- 📫 How to reach me via mail 
+- 📫 Reach me via mail 
 
 <!---
 Pik-1/Pik-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
